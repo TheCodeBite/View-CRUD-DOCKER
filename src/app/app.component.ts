@@ -27,9 +27,6 @@ export class AppComponent {
   }
 
   onSubmit(formulario){
-    console.log("este es el formulario");
-    console.log(formulario);
-
     this.ngOnInit();
   }
 
